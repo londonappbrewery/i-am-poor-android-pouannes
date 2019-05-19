@@ -17,6 +17,7 @@
         android:layout_height="wrap_content"
         android:layout_centerInParent="false"
         android:layout_centerHorizontal="true"
+        android:layout_marginTop="50dp"
         android:text="@string/title"
         android:textColor="@android:color/background_dark"
         android:textSize="40sp" />
